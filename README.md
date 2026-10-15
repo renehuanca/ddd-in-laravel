@@ -1,4 +1,4 @@
-## DDD in Laravel 9
+## DDD in Laravel 9 (Haber Importante seria mantener la infraestructura en el framework osea en app/ ya que moverlos rompe discovery, politicas, providers lo mejor seria trabajar solo el dominio y aplicacion en src)
 
 DDD example in laravel.
 
