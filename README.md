@@ -1,4 +1,10 @@
-## DDD in Laravel 9 (Haber Importante seria mantener la infraestructura en el framework osea en app/ ya que moverlos rompe discovery, politicas, providers lo mejor seria trabajar solo el dominio y aplicacion en src)
+# No veo mas que dolores de cabeza
+- El uso innecesario de boilerplating para eloquent a diferencia de doctrine - datamaper
+- Porque tener value object si tenemos los FormRequest(validations)
+- El problema es active record el modelo siempre estara acoplado a la infraestructura
+- Podemos mantener la infraestructura en /app pero ya perdemos DDD porque ya que mover la infra a src rompe discovery, politicas, providers lo mejor seria trabajar solo el dominio y aplicacion en src cosa que no es provechoso
+
+## DDD in Laravel 9
 
 DDD example in laravel.
 
