@@ -3,7 +3,7 @@
 namespace App\Providers;
 
 use CodelyTv\Mooc\Courses\Domain\CourseRepository;
-use CodelyTv\Mooc\Courses\Infraestructure\Persistense\EloquentCourseRepository;
+use CodelyTv\Mooc\Courses\Infrastructure\Persistence\EloquentCourseRepository;
 use Illuminate\Support\ServiceProvider;
 
 class RepositoryServiceProvider extends ServiceProvider

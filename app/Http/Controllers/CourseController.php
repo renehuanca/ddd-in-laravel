@@ -3,8 +3,8 @@
 namespace App\Http\Controllers;
 
 use App\Http\Requests\CreateCourseRequest;
-use CodelyTv\Mooc\Courses\Aplication\Create\CourseCreator;
-use CodelyTv\Mooc\Courses\Infraestructure\Persistense\Eloquent\CourseEloquentModel;
+use CodelyTv\Mooc\Courses\Application\Create\CourseCreator;
+use CodelyTv\Mooc\Courses\Infrastructure\Persistence\Eloquent\CourseEloquentModel;
 
 class CourseController extends Controller
 {

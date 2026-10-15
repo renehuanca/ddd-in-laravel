@@ -2,7 +2,7 @@
 
 declare(strict_types = 1);
 
-namespace CodelyTv\Tests\Mooc\Courses\Aplication\Create;
+namespace CodelyTv\Tests\Mooc\Courses\Application\Create;
 
 final class CourseCreatorTest extends CourseModuleUnitTestCase
 {

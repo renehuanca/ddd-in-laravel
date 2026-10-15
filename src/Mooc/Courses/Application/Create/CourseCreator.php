@@ -2,7 +2,7 @@
 
 declare(strict_types = 1);
 
-namespace CodelyTv\Mooc\Courses\Aplication\Create;
+namespace CodelyTv\Mooc\Courses\Application\Create;
 
 use App\Http\Requests\CreateCourseRequest;
 use CodelyTv\Mooc\Courses\Domain\Course;
